@@ -1,2 +1,3 @@
-# Rock-Paper-Scissors-Image-Classification
-Rock Paper Scissors Image Classification with Tensorflow/Keras
+# Rock Paper Scissors Image Classification
+
+Image Classification using the Rock Paper Scissors Dataset in Tensorflow/Keras.
